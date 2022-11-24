@@ -1,4 +1,4 @@
 .env
-db/data
-db_admin/data
+examples/db/data
+examples/db_admin/data
 
